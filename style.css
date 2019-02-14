@@ -1,0 +1,13 @@
+body{
+    background: url(background.jpg);
+    background-position: center;
+    background-position-y: 20%;
+    display: block;
+}
+#headertext{
+    top:2rem;
+    color:rgb(211, 211, 211);
+}
+label{
+    color:white;
+}
